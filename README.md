@@ -1,6 +1,6 @@
 # Game of Life
 
-Programmed by Diogo Valdivieso Damasio Da Costa and Théo Houle.
+Programmed by Alexis Favre & Augustin Allard
 
 Programmed the game of life on Gecko FPGA (see board):
 
